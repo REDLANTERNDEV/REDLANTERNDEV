@@ -5,7 +5,7 @@ I have been involved in coding for 4 years. I am working towards becoming a full
 
 * 🌍  I'm based in Turkiye
 <!---* 🖥️  See my portfolio at [Portfilio](http://red.)-->
-* 🧠  I'm learning Next.js, Express.js, TypeScript
+* 🧠  I'm learning Next.js, Express.js, TypeScript and MongoDB
 * 🤝  I'm open to collaborating on Website Projects
 
 <a href="https://www.github.com/redlanterndev" target="_blank" rel="noreferrer"><img
