@@ -1,7 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===========================================================================================================================
-I'm Junior Software Developer
--------------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;" />
+</h1>
+<h3 align="center">I'm Junior Software Developer</h3>
+
+<br/>
 
 I have been involved in coding for 4 years. I am working towards becoming a full stack developer and am actively engaged in projects and studies related to this field.
 
