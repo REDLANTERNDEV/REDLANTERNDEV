@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================
-I'm a Junior Software Developer
+I'm Junior Software Developer
 -------------------------
 
 I have been involved in coding for 4 years. I am working towards becoming a full stack developer and am actively engaged in projects and studies related to this field.
