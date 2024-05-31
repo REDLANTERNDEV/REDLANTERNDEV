@@ -1,4 +1,6 @@
-Junior Software Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===========================================================================================================================
+I'm a Junior Software Developer
 -------------------------
 
 I have been involved in coding for 4 years. I am working towards becoming a full stack developer and am actively engaged in projects and studies related to this field.
@@ -24,8 +26,8 @@ src="https://img.shields.io/github/followers/redlanterndev?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/redlanterndev"><img src="https://github-readme-stats.vercel.app/api?username=redlanterndev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="redlanterndev's GitHub stats" /></a>
+<a href="http://www.github.com/redlanterndev"><img src="https://github-readme-stats.vercel.app/api?username=redlanterndev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="redlanterndev's GitHub stats" /></a> <a href="http://www.github.com/redlanterndev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=redlanterndev&stroke=22c55e&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="http://www.github.com/redlanterndev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=redlanterndev&stroke=22c55e&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+
 
 <a href="https://github.com/redlanterndev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redlanterndev&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
