@@ -7,7 +7,7 @@
 
 I have been involved in coding for 4 years. I am working towards becoming a full stack developer and am actively engaged in projects and studies related to this field.
 
-* 🖥️  See my portfolio at [Portfilio](https://github.com/REDLANTERNDEV)
+* 🖥️  See my portfolio at [Portfilio](https://github.com/REDLANTERNDEV) (Not finished yet)
 * 🧠  I’m currently learning Next.js, Express.js,NodeJS, TypeScript and MongoDB
 * 🤝  I'm open to collaborating on Website Projects
 
