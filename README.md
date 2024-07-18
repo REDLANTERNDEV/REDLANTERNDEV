@@ -26,10 +26,10 @@ I have been involved in coding for 4 years. I am working towards becoming a full
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a width=390 href="http://www.github.com/redlanterndev"><img src="https://github-readme-stats.vercel.app/api?username=redlanterndev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="redlanterndev's GitHub stats" /></a>
+ <!--- <a width=390 href="http://www.github.com/redlanterndev"><img src="https://github-readme-stats.vercel.app/api?username=redlanterndev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="redlanterndev's GitHub stats" /></a>-->
   <a width=390 href="http://www.github.com/redlanterndev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=redlanterndev&stroke=22c55e&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
   <br/>
-  <a width=320 href="https://github.com/redlanterndev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redlanterndev&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <!---<a width=320 href="https://github.com/redlanterndev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redlanterndev&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 </div>
 
 <br/>
