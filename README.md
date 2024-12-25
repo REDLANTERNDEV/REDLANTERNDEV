@@ -5,7 +5,7 @@
 
 <br/>
 
-I have been involved in coding for 4 years and am working towards becoming a full stack developer. I am actively engaged in projects and studies related to this field.
+I have been working in software development for 4 years, with a current focus on becoming a full-stack developer. I am actively involved in relevant projects and continuous learning in this field.
 
 * 🤝  I'm open to collaborating on Website Projects
 
