@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;" />
 </h1>
-<h3 align="center">Hi there! I'm Ahmed, a passionate Junior Fullstack Developer in Turkiye.</h3>
+<h3 align="center">Hi there! I'm Ahmed, a passionate Junior Fullstack Developer.</h3>
 
 <br/>
 
