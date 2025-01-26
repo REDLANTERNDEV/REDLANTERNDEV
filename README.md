@@ -9,8 +9,7 @@ I have been working in software development for 4 years, with a current focus on
 
 * 🤝  I'm open to collaborating on Website Projects
 
-<a href="https://www.github.com/redlanterndev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/redlanterndev?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
-<img width=100 src="https://visitor-badge.laobi.icu/badge?page_id=redlanterndev.redlanterndev" />
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
